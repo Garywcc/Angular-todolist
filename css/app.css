@@ -1,0 +1,18 @@
+/*
+
+app-template.css overrides
+
+remove this comment if used
+remove this file if not
+*/
+.checked{
+	color:#d9d9d9;
+	text-decoration: line-through;
+}
+
+
+#new-todo{
+	width:100%;
+	border:none;
+	height: 40px;
+}
