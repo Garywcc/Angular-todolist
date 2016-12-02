@@ -1,0 +1,2 @@
+# Angular-todolist
+利用todomvc里面的angular模板自己实现了大部分功能
